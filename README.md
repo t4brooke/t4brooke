@@ -1,6 +1,6 @@
 ## hello 👋
 
-i am an undergraduate at drexel university studying computer science and finance (minor) with concentrations in ai & machine learning and algorithms and theory. 
+i am an undergraduate at drexel university studying computer science and finance (minor) with concentrations in ai & machine learning and algorithms & theory. 
 
 **at the moment:**
 - i'm an intern for vanguard
