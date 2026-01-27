@@ -4,6 +4,6 @@ undergraduate at drexel univ studying computer science with concentrations in so
 
 **at the moment:**
 - i'm an intern for vanguard
-- currently brainstorming personal projects + perfecting my stack
-- repositories are private
+- having fun with personal projects
+- figuring out what i like
 - reach me at t4brooke@gmail.com
